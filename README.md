@@ -1,7 +1,9 @@
 Group members:
 Quanxi Guo, Tong Sun, Xin Li
 
-The video of the presentation is called Explainable course, PDF file for the final report
+The video of the presentation is on Youtube, the link is https://youtu.be/dXYOeZsI1ow, This is a video that is only accessible via link
+
+PDF file for the final report.
 
 CS2_35 is the battery dataset of the University of Maryland.
 

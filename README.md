@@ -1,3 +1,8 @@
+Group members:
+Quanxi Guo, Tong Sun, Xin Li
+
+The video of the presentation is called Explainable course, PDF file for the final report
+
 CS2_35 is the battery dataset of the University of Maryland.
 
 LSTM.py is the code for post-hoc interpretability analysis of the LSTM model using SHAP.

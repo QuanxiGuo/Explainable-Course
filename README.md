@@ -1,4 +1,3 @@
-=
 Group members:
 Quanxi Guo, Tong Sun, Xin Li
 
